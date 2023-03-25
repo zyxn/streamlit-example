@@ -47,4 +47,4 @@ st.plotly_chart(fig2)
 
 with st.expander("Made with love by ❤️"):
     st.write("Miftah\nZado\nZacky\nDaffa")
-    st.image("https://i.ibb.co/RjBVGJ3/Whats-App-Image-2023-03-26-at-02-48-57.jpg")
+    st.image("https://i.ibb.co/vvTgvq7/Whats-App-Image-2023-03-26-at-03-39-12.jpg")
