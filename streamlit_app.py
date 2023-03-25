@@ -27,7 +27,7 @@ with st.sidebar:
     st.write('Color :', option_color)
 
 bub = st.slider('Ukuran Bubble', 1, 100, 60)
-df = pd.read_csv(r'C:\Users\ZADO\Documents\Kampus\visdat\streamlit-example\data.csv')
+df = pd.read_csv('data.csv')
 fig1 = px.scatter(df,
     x=option_x,
     y=option_y,
